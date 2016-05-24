@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[HEIDI V. ASHWORTH]]></title>
         <description><![CDATA[HEIDI V. ASHWORTH]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/heidi-v-ashworth/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 24 May 2016 21:14:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 24 May 2016 21:23:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/heidi-v-ashworth/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://2.bp.blogspot.com/-RkFCKt84zf8/Vs3h6UW_hZI/AAAAAAAALUE/bZCG78XCZrY/s640/london%2B17%2Bcopy.jpg">]]></description>
+            <link>https://thegrid.ai/heidi-v-ashworth/c0563b41-045a-4919-8671-8f31579278a5/index.html</link>
+            <guid isPermaLink="false">c0563b41-045a-4919-8671-8f31579278a5</guid>
+            <pubDate>Tue, 24 May 2016 21:23:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e8afa76-ff9a-4c76-a0fd-9a72bb61d218.jpg">]]></description>
-            <link>undefined66fc3bc9-6a72-4fb2-89c3-ac019b907f01/index.html</link>
+            <link>https://thegrid.ai/heidi-v-ashworth/66fc3bc9-6a72-4fb2-89c3-ac019b907f01/index.html</link>
             <guid isPermaLink="false">66fc3bc9-6a72-4fb2-89c3-ac019b907f01</guid>
             <pubDate>Tue, 24 May 2016 21:14:52 GMT</pubDate>
         </item>
