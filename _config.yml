@@ -1,19 +1,4 @@
-name: HEIDI V. ASHWORTH
-favicon: null
-layout_spectrum: 0.50587
 typography_spectrum: 0.8584229
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#fffffb'
@@ -25,4 +10,19 @@ color:
   lightness: 0.875
   saturation: 0.5
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.50587
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: HEIDI V. ASHWORTH
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 purpose: []
